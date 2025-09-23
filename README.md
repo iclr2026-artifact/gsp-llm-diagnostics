@@ -397,6 +397,4 @@ Tokenizer covariates: pieces/character and fragmentation entropy.
 Ablations: targeted early-layer head removals; report early/mid/late windows.
 
 Reasoning: CoT, CoD, ToT spectral signatures correlated with performance.
-#   g s p - l l m - d i a g n o s t i c s  
- #   g s p - l l m - d i a g n o s t i c s  
- 
+#

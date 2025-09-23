@@ -1,0 +1,1 @@
+﻿Answer with only True or False. Statement: The capital of France is Paris.

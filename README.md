@@ -21,7 +21,7 @@ You can set up the environment either with **pip** or **conda**.
 
 ```bash
 # clone the repository
-git clone https://github.com/your-username/gsp-llm-diagnostics.git
+git clone https://github.com/iclr2026-artifact/gsp-llm-diagnostics.git
 cd gsp-llm-diagnostics
 
 # create virtual environment
@@ -159,8 +159,8 @@ python effect_analyzer.py \
 ```
 
 ## Tokenizer-stress covariates
-# Run in PowerShell from the repo root. If using conda, first: conda activate gsp-llm
-# If "python" isn’t on PATH, use "py" instead of "python" below.
+### Run in PowerShell from the repo root. If using conda, first: conda activate gsp-llm
+### If "python" isn’t on PATH, use "py" instead of "python" below.
 
 ```bash
 # --- Paths (edit if your repo uses different names) ---
@@ -398,3 +398,4 @@ Ablations: targeted early-layer head removals; report early/mid/late windows.
 
 Reasoning: CoT, CoD, ToT spectral signatures correlated with performance.
 #
+

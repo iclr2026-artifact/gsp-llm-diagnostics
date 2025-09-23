@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ```bash
 # clone the repository
-git clone https://github.com/your-username/gsp-llm-diagnostics.git
+git clone https://github.com/iclr2026-artifact/gsp-llm-diagnostics.git
 cd gsp-llm-diagnostics
 
 # create conda environment
@@ -398,4 +398,5 @@ Ablations: targeted early-layer head removals; report early/mid/late windows.
 
 Reasoning: CoT, CoD, ToT spectral signatures correlated with performance.
 #
+
 

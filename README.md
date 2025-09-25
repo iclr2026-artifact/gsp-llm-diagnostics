@@ -8,10 +8,7 @@ To respect GitHub’s 1 GB repository size policy, the repo only contains the
 data for **one representative language**. This is sufficient for running
 the full pipeline end-to-end as a smoke test.
 
-The **small complete dataset** (all 20 languages, ~3–7 GB depending on version)
-is not included here. Interested researchers, or collaborators
-can request access by contacting the authors. Upon request, we will provide
-a download link (Zenodo / Hugging Face / institutional storage).
+The **small complete dataset** (all 20 languages, 10 paraphrases, ~6 GB depending on version) is included here: [Google Drive folder](https://drive.google.com/drive/folders/1HiLiVsiJdEAoRdh1JA_wdtKeOqCePNNk?usp=drive_link).
 
 ## Installation
 
@@ -398,5 +395,6 @@ Ablations: targeted early-layer head removals; report early/mid/late windows.
 
 Reasoning: CoT, CoD, ToT spectral signatures correlated with performance.
 #
+
 
 
